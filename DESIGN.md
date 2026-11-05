@@ -1,12 +1,12 @@
 ## Problem and Users
-Problem: Students struggle to find a flexibe and realistic exam prep time table, prepare in a hard way rather than a smart way. To solve this comes Exam-Copilot an application that works as a website in its first version which takes input of PYQS and syllabus from student and analyze it. According to the analysis and time the student has AI generates time table with checklist, if by other reasons student get done with the checklist of the day or lagging behing the time table is modified accordingly so that the student can make the most of the limited time they have.
+Problem: Students struggle to find a flexibe and realistic exam prep time table, prepare in a hard way rather than a smart way. To solve this comes Exam-Copilot an application that works as a website in its first version which takes input of PYQS and syllabus from student and analyze it. According to the analysis and time the student has AI generated time table with checklist, if by other reasons student dosen't get done with the checklist of the day or lagging behind, the time table is modified accordingly so that the student can make the most of the limited time they have.
 Users: VNRVJIET 2nd year CSE students.
 
 ## Scope
 **In v1**
 > Upload PYQ question paper and syllabus.
 > AI analyzes it and gives weightage.
-> AI gives output of the ranked list of units and topics [again in weightage ascending order] in ascending order according to the weightage.
+> AI gives output of the ranked list of units and topics in descending order according to the weightage.
 **Not in V1**
 > Generate a flexible time-table that changes according to the time and progress of the student in prep.
 > Generate flashcards and store them to tell students which topics they are weak at and change the tt accordingly.
